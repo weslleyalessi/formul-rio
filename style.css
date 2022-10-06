@@ -5,7 +5,11 @@ body{
 form label{
 	display: block;
 	font-size: 20px;
+	color:red;
 }
 form input{
 	display: block;
+	background: black;
+	color: white;
+	font-weight: bold;
 }
