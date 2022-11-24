@@ -10,7 +10,7 @@ form label{
 form input{
 	display: block;
 	background: black;
-	color: red;
+	color: white;
 	font-weight: bold;
 }
 table {
@@ -26,5 +26,5 @@ td {
 	border-color: red;
 }
 div { 
-     font-color: red;
+     color: red;
 }
