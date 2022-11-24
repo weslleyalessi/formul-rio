@@ -19,6 +19,11 @@ form p{
 	font-size: 20px;
 	color:white;
 }
+form div{
+	display: block;
+	font-size: 20px;
+	color:red;
+}
 table {
 	background: red;
       }
